@@ -34,7 +34,9 @@
 
 ## [09주차]
 
-- `Reference Type` or `Value Type` ?
+- `Call by Value` 와 `Call by Reference` 이란?
+
+- Python은 `Value`일까? `Reference`일까?
 
 ---
 
